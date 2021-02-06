@@ -1,0 +1,11 @@
+:root {
+  --paperColor: #f7f1e6;
+  --pakerDarkColor: #e0c2ab;
+}
+body {
+  margin: 0px;
+  background: linear-gradient(var(--paperColor), var(--paperDarkColor));
+}
+.asd {
+  color: red;
+}
